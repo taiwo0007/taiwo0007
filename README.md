@@ -1,10 +1,10 @@
 # Taiwo Obadare 👨‍💻
 
-Hi there 👋 I'm Taiwo, a creative and high-performing Computing student with experience in designing, developing, deploying, and testing websites. I have an average GPA of 3.67 and I am seeking a software engineering internship which could lead me to advance my knowledge in various workplace constructs.
+Hi there 👋 I'm Taiwo, a creative and high-performing Computing student with experience in designing, developing, deploying, and testing websites.
 
 ## Education 🎓
 
-- Bsc in Computing, Technological University Dublin. Dublin, Tallaght - September 2020 – Present.
+- Bsc in Computing with Software Development, Technological University Dublin. Dublin, Tallaght - September 2020 – Sepmtember 2023.
 - Bsc(Hons) in Computing, Dundalk Institute of Technology. Louth, Dundalk - September 2017 – 2019.
 - Leaving Certificate, Riversdale Community College. Dublin, Corduff - 2010 – 2016.
 
@@ -36,7 +36,6 @@ Hi there 👋 I'm Taiwo, a creative and high-performing Computing student with e
 ## Work Experience 💼
 
 - Graphic Designing - Video Editing, FRM (Freelancer) - August 2021 – Present
-- HealthCare Assistant, Communicare, North Dock, Dublin 3 - August 2018 – October 2018
 - Teachers Assistant, Tyrrelstown Educate Together, Dublin 15 - 2015 (1 Week Tenure)
 
 ## Hobbies & Interests 🎶🎸📰🎨
